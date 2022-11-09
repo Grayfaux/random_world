@@ -1,0 +1,83 @@
+Alley
+Street
+Avenue
+B road
+Brick Road
+Boulevard
+Bundesstraße
+Byway
+Causeway
+Circle
+Collector road
+Corniche
+Close
+Crescent
+Court
+Cul-de-sac
+Drive
+Frontage road
+Gemeindestraße
+Highway
+Kreisstraße
+Lane
+Landesstraße
+Living street
+Loop
+One-way street
+Path
+Place
+Plaza
+Road
+Roundabout
+Route
+Side road
+Single carriageway
+Stravenue
+Terrace
+Way
+Tree tunnel
+Woonerf
+Agricultural road
+Backroad
+Dirt road
+Forest road
+Gravel road
+Green lane
+Historic roads and trails
+Ice road
+Roman roads
+Sunken lane
+Arterial road
+Autostrasse
+Dual carriageway
+Expressway
+Local-express lanes
+Farm to Market Road
+Parkway
+Beltway
+Reversible lane
+Trunk road
+Turnpike
+Autobahn
+Auto-estrada
+Autopista
+Autostrada
+Controlled-access highway
+Freeway
+High-quality dual carriageway
+Interstate Highway
+Limited-access highway
+Motorway
+Super two
+Driveway
+Gated community
+Military road
+Private highway
+Private road
+Connector
+Interchange
+Intersection
+Level junction
+Level crossing
+Road diet
+Roundabout
